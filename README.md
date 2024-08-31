@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glebuchio
+- 👋 Hi, I’m Gleb)
 - 👀 I’m interested in learning new things and learning.
 - 🌱 I’m currently on my way to becoming a frontend developer. I am learning HTML, CSS, JavaScript, React.
 - 💞️ I’m looking to make new acquaintances in the world of information technology.
